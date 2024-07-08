@@ -840,7 +840,7 @@ body::-webkit-scrollbar-thumb{
         display: flex;
         align-items: center;
         justify-content: center;
-        min-height: 30vh;
+        min-height: 25vh;
         justify-content: space-between;
     }
 
